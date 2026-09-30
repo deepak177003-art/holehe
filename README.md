@@ -1,4 +1,4 @@
-# **Holehe OSINT - Email to Registered Accounts**
+# **Holehe OSINT -INFO jkawal909@gmail.com
 👋 Hi there! For any professional inquiries or collaborations, please reach out to me at:
 megadose@protonmail.com
 
@@ -9,7 +9,7 @@ megadose@protonmail.com
 
 # [Holehe Online Version](https://osint.industries/)
 
-## **Summary**
+## **all information**
 
 *Efficiently finding registered accounts from emails.*
 
@@ -74,11 +74,11 @@ trio.run(main)
 For each module, data is returned in a standard dictionary with the following json-equivalent format :
 ```json
 {
-  "name": "example",
+  "name": "kawaljeet kaur",
   "rateLimit": false,
   "exists": true,
   "emailrecovery": "ex****e@gmail.com",
-  "phoneNumber": "0*******78",
+  "phoneNumber": "07440362513",
   "others": null
 }
 ```
